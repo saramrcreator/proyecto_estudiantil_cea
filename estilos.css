@@ -5,14 +5,14 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: #f1f5f9;
-  color: #243247;
-  line-height: 1.6;
+  background: #03eeff;
+  color: #c311f0;
+  line-height: 1.7;
 }
 
 header {
-  background: #17365d;
-  color: white;
+  background: #6cffce;
+  color: rgb(255, 191, 191);
   text-align: center;
   padding: 35px 15px;
 }
@@ -24,14 +24,14 @@ main {
 }
 
 section {
-  background: white;
+  background: rgb(255, 180, 180);
   margin-bottom: 18px;
   padding: 20px;
   border-radius: 10px;
 }
 
 h2 {
-  color: #1f5b8f;
+  color: #81c4ff;
 }
 
 img {
@@ -44,5 +44,5 @@ img {
 footer {
   text-align: center;
   padding: 18px;
-  background: #dbe5ef;
+  background: #d6feff;
 }
