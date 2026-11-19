@@ -5,13 +5,13 @@
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  background: #03eeff;
-  color: #c311f0;
+  background: #FFBDFB;
+  color: #7622A8;
   line-height: 1.7;
 }
 
 header {
-  background: #6cffce;
+  background: #D4FCFF;
   color: rgb(255, 191, 191);
   text-align: center;
   padding: 35px 15px;
@@ -31,12 +31,12 @@ section {
 }
 
 h2 {
-  color: #81c4ff;
+  color: #D79EFF;
 }
 
 img {
   display: block;
-  max-width: 100%;
+  max-width: 99%;
   height: auto;
   border-radius: 8px;
 }
